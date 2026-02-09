@@ -1,16 +1,19 @@
-## Hi there 👋
+# Zander Kemp
 
-<!--
-**zanderkempportfolio/zanderkempportfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Biomedical Engineering student with extensive experience in analytical chemistry and instrumentation.
+I have 4 years of experience as an analytical laboratory technician, with a strong background in documentation, method development, and quantitative analysis. My academic focus bridges electrical and computer-based systems with biological signal interpretation, particularly in noisy biomedical and immunological contexts.
 
-Here are some ideas to get you started:
+## Purpose of this GitHub 
+This GitHub was made with the purpose of introducing my skillset to employers and sharing my projects with the public. This portfolio will consist of projects focused on biological impact, signal processing and applied computational principles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools and Technologies
+- **Python** - For calculations, mathematical modeling, simulation, and data analysis (NumPy/SciPy/Matplotlib-style workflows).
+- **VHDL** - For tailored digital hardware, simulations; a widely used hardware description language in regulated and government-adjacent projects.
+- **LTSpice** - Circuit simulations and realistic electrical component-constraint modeling.
+- **Assembly/C** - Microprocessor manipulation and low-level software control.
+- **SolidWorks CAD** - Understanding mechanical parts and assemblies involved in housing electrical circuitry.
+
+## Motivation
+My motivations lie in solving biomedical problems, ensuring patients receive the greatest level of care and treatment in any instrumentational-based medical procedure they undergo.
+
+*This portfolio is a work in progress and will continue to grow as I develop and document new projects.*
